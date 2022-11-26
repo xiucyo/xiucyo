@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/xiucyo" target="_blank">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=&width=700&height=100" width="700">
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=echo%20%27Hello%2C%20World%21%27%3B&width=600&height=100">
   </a>
 </p>
 <!--![Twitter Follow](https://img.shields.io/twitter/follow/?style=social)-->
