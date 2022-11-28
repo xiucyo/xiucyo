@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/freebsd-292e33?style=flat-square&logo=freebsd">
   <img src="https://img.shields.io/badge/Artix-Linux-292e33?style=flat-square&logo=Artix-Linux">
   <img src="https://img.shields.io/badge/Neovim-292e33?style=flat-square&logo=Neovim">
-  <img src="https://img.shields.io/badge/Browser-292e33?style=flat-square&logo=google-chrome">
+  <img src="https://img.shields.io/badge/Chromium-292e33?style=flat-square&logo=google-chrome">
 </p>
 <p align="center">
   <a href="https://github.com/xiucyo" target="_blank">
